@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qfwXSXSAV8KtNpoyLURgUfy0/oHuwCryx7/HyYgmPPDvC3lGVdcI6q4ybkoqD+Dgj/21cUjUfHwCWY7Lr8qXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efrem\\source\\repos\\Calc\\Calc\\Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efrem\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\efrem\\.nuget\\packages\\nstack.core\\1.0.7\\nstack.core.1.0.7.nupkg.sha512",
+    "C:\\Users\\efrem\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\efrem\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512",
+    "C:\\Users\\efrem\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\efrem\\.nuget\\packages\\terminal.gui\\1.12.1\\terminal.gui.1.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}
